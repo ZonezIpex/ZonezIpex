@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZonezIpex/ZonezIpex.github.io/main/%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84.png" width="120" alt="profile" />
-</p>
-
-<p align="center">
   <a href="https://zonezipex.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-zonezipex.github.io-111827?style=flat&logo=githubpages&logoColor=white" /></a>
   <a href="mailto:aksvmfkd3@naver.com"><img alt="Email" src="https://img.shields.io/badge/Email-aksvmfkd3%40naver.com-2563eb?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/ZonezIpex"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ZonezIpex-0f172a?style=flat&logo=github&logoColor=white" /></a>
@@ -36,11 +32,11 @@
 
 ### Design Tools
 <p>
-  <img height="36" alt="Adobe Photoshop" src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" />
-  <img height="36" alt="Adobe Illustrator" src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" />
-  <img height="36" alt="Adobe InDesign" src="https://cdn.simpleicons.org/adobeindesign/FF3366" />
-  <img height="36" alt="Adobe XD" src="https://cdn.simpleicons.org/adobexd/FF61F6" />
-  <img height="36" alt="Adobe Premiere Pro" src="https://cdn.simpleicons.org/adobepremierepro/9999FF" />
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" />
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white" />
+  <img alt="Adobe InDesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat&logo=adobeindesign&logoColor=white" />
+  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobexd&logoColor=white" />
+  <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white" />
 </p>
 
 ---
