@@ -1,16 +1,25 @@
-## Hi there 👋
+## Web / Frontend Developer
 
-<!--
-**ZonezIpex/ZonezIpex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- React · TypeScript 중심
+- DB 설계/SQL 실습 기반 (MySQL)
+- GTQ · GTQi · GTQid · ADsP 학습 중
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Frontend: React, TypeScript
+- Backend: Node.js, Spring
+- DB: MySQL
+- Tools: Git, GitHub, Figma
+
+---
+
+## Featured
+- 프로젝트A: 한 줄 설명 (주요 역할/기술)
+- 프로젝트B: 한 줄 설명 (주요 역할/기술)
+
+---
+
+## Links
+- Portfolio: https://zonezipex.github.io/
+- Email: (너 이메일)
