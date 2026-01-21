@@ -43,7 +43,18 @@
 
 ## Featured Projects
 
-### 1) 대팡 — 필기·요약·퀴즈 통합 AI 학습 플랫폼
+### 1) IT자산장부 — 사내 IT 자산 대여·반납·검수·통합관리 DB 설계
+> 역할: DB 모델링 (ERD/DDL/Trigger/Procedure)  
+> Tech: MariaDB · SQL · ERD · DDL · Trigger · Procedure  
+> 기간: 2026.01.05 ~ 2026.01.21  
+> Link: https://github.com/ZonezIpex/IT-Asset-Register
+<p>
+  <img src="https://raw.githubusercontent.com/ZonezIpex/ZonezIpex.github.io/main/IT%EC%9E%90%EC%82%B0%EC%9E%A5%EB%B6%80.png" width="520" alt="it-asset-register" />
+</p>
+
+---
+
+### 2) 대팡 — 필기·요약·퀴즈 통합 AI 학습 플랫폼
 > 역할: 팀장 (프론트엔드 제작 & 디자인 총괄 / 소개영상 제작·편집)  
 > Tech: React · TypeScript · Node.js · MySQL  
 > Link: https://github.com/ZonezIpex/DaepangIntroduction.git
@@ -53,7 +64,7 @@
 
 ---
 
-### 2) 면접몬 — AI 모의면접 & 피드백 플랫폼
+### 3) 면접몬 — AI 모의면접 & 피드백 플랫폼
 > 역할: 팀장 (프론트엔드 총괄 / GitHub 관리 / 디자인 총괄)  
 > Tech: React · TypeScript · Node.js · MySQL  
 > Link: https://github.com/ZonezIpex/MenjupmonIntroduction.git
@@ -63,7 +74,7 @@
 
 ---
 
-### 3) AiR — 회사 맞춤 AI 이력서 플랫폼
+### 4) AiR — 회사 맞춤 AI 이력서 플랫폼
 > 역할: 부팀장 (프론트엔드 제작 / 총관리 / GitHub 관리 / 피드백)  
 > Tech: React · JavaScript · Node.js · MySQL  
 > Link: https://github.com/ZonezIpex/Team_project.git
@@ -73,7 +84,7 @@
 
 ---
 
-### 4) 코드어드벤쳐 — 게임형 코딩 학습 플랫폼
+### 5) 코드어드벤쳐 — 게임형 코딩 학습 플랫폼
 > 역할: 프론트엔드 개발 및 디자인 제작  
 > Link: https://github.com/ZonezIpex/Codeadventuredealim.git
 <p>
