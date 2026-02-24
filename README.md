@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=28&duration=2600&pause=700&color=2563EB&center=true&vCenter=true&width=760&lines=%EC%8B%A0%EB%AF%BC%EC%88%98+%7C+%EC%9B%B9+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88;UI%2FUX+%EC%A4%91%EC%8B%AC+%ED%99%94%EB%A9%B4+%EC%84%A4%EA%B3%84+%26+%EC%8B%A4%EC%9E%91%EC%97%85;Frontend+%28React%2C+TypeScript%29+%EB%B3%B4%EC%A1%B0+%EA%B0%9C%EB%B0%9C" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=28&duration=2600&pause=700&color=2563EB&center=true&vCenter=true&width=760&lines=%EC%8B%A0%EB%AF%BC%EC%88%98+%7C+%EC%9B%B9+%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%85%94;UI%2FUX+%EC%A4%91%EC%8B%AC+%ED%99%94%EB%A9%B4+%EC%84%A4%EA%B3%84+%26+%EC%8B%A4%EC%9E%91%EC%97%85;Frontend+%28React%2C+TypeScript%29+%EB%B3%B4%EC%A1%B0+%EA%B0%9C%EB%B0%9C" alt="typing" />
 </p>
 
 <p align="center">
