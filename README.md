@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=28&duration=2600&pause=700&color=2563EB&center=true&vCenter=true&width=760&lines=%EC%8B%A0%EB%AF%BC%EC%88%98+%7C+%EC%9B%B9+%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%85%94;UI%2FUX+%EC%A4%91%EC%8B%AC+%ED%99%94%EB%A9%B4+%EC%84%A4%EA%B3%84+%26+%EC%8B%A4%EC%9E%91%EC%97%85;Frontend+%28React%2C+TypeScript%29+%EB%B3%B4%EC%A1%B0+%EA%B0%9C%EB%B0%9C" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=28&duration=2600&pause=700&color=2563EB&center=true&vCenter=true&width=760&lines=%EC%8B%A0%EB%AF%BC%EC%88%98+%7C+%EC%9B%B9+%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%85%94;GTQ+%EA%B8%B0%EB%B0%98+Photoshop%2FIllustrator+%ED%99%9C%EC%9A%A9+UI%EC%8B%9C%EC%95%88+%EC%A0%9C%EC%9E%91;IA%2F%EC%82%AC%EC%9A%A9+%ED%9D%90%EB%A6%84+%EA%B8%B0%EB%B0%98+%ED%99%94%EB%A9%B4+%EC%84%A4%EA%B3%84" alt="typing" />
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@
 ---
 
 ## About Me
-- 정적/동적 화면에서 **정보 구조(IA)** 와 **사용 흐름**을 먼저 잡고, 그 다음에 UI를 정리합니다.
-- 디자인 의도가 실제 화면에서 깨지지 않게 **간격·정렬·상호작용**을 끝까지 맞추는 편입니다.
-- 협업 시 화면 단위로 이슈를 쪼개서 처리하고, 변경 사항을 빠르게 반영합니다.
+- GTQ 기반으로 **Photoshop/Illustrator** 활용해 IA·사용 흐름을 잡고 UI를 설계합니다.
+- 구현에서 흔들리지 않게 **에셋 추출 + 간격·정렬·상호작용 가이드**까지 정리합니다.
+- 협업은 **화면 단위 이슈 분해**로 빠르게 수정·반영합니다.
 
 ---
 
@@ -22,12 +22,12 @@
 
 ### Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,spring,mysql&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,ts,nodejs&perline=12" />
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=12" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,idea&perline=12" />
 </p>
 
 ### Design Tools
