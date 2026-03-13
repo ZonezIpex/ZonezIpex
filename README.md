@@ -1,106 +1,50 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=28&duration=2600&pause=700&color=2563EB&center=true&vCenter=true&width=760&lines=%EC%8B%A0%EB%AF%BC%EC%88%98+%7C+%EC%9B%B9+%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%85%94;GTQ+%EA%B8%B0%EB%B0%98+Photoshop%2FIllustrator+%ED%99%9C%EC%9A%A9+UI%EC%8B%9C%EC%95%88+%EC%A0%9C%EC%9E%91;IA%2F%EC%82%AC%EC%9A%A9+%ED%9D%90%EB%A6%84+%EA%B8%B0%EB%B0%98+%ED%99%94%EB%A9%B4+%EC%84%A4%EA%B3%84" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=28&duration=2600&pause=700&color=2563EB&center=true&vCenter=true&width=760&lines=%EC%8B%A0%EB%AF%BC%EC%88%98+%7C+Digital+Content+Marketer;%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C+%EA%B8%B0%ED%9A%8D%ED%95%98%EA%B3%A0+%EB%94%94%EC%9E%90%EC%9D%B8%EC%9C%BC%EB%A1%9C+%EC%84%A4%EB%93%9D%ED%95%A9%EB%8B%88%EB%8B%A4.;%EA%B0%9C%EB%B0%9C+%EC%A7%80%EC%8B%9D%EC%9D%84+%EA%B2%B8%EB%B9%84%ED%95%9C+%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC+%EB%A7%88%EC%BC%80%ED%84%B0" alt="typing" />
 </p>
 
 <p align="center">
   <a href="https://zonezipex.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-zonezipex.github.io-111827?style=flat&logo=githubpages&logoColor=white" /></a>
   <a href="mailto:aksvmfkd3@naver.com"><img alt="Email" src="https://img.shields.io/badge/Email-aksvmfkd3%40naver.com-2563eb?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/ZonezIpex"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ZonezIpex-0f172a?style=flat&logo=github&logoColor=white" /></a>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=ZonezIpex&style=flat&color=2563eb" />
 </p>
 
 ---
 
-## About Me
-- GTQ 기반으로 **Photoshop/Illustrator** 활용해 IA·사용 흐름을 잡고 UI를 설계합니다.
-- 구현에서 흔들리지 않게 **에셋 추출 + 간격·정렬·상호작용 가이드**까지 정리합니다.
-- 협업은 **화면 단위 이슈 분해**로 빠르게 수정·반영합니다.
+## 🚀 "콘텐츠와 기술의 가교 역할을 수행합니다"
+
+저는 단순한 비주얼 제작을 넘어, **웹 퍼블리싱과 DB 설계 경험**을 바탕으로 비즈니스의 성장을 돕는 **디지털 콘텐츠 마케터** 신민수입니다.  
+기술적 메커니즘을 이해하기에 개발팀과 원활히 소통하며, 데이터에 기반한 고효율 콘텐츠를 기획합니다.
+
+### 💡 Core Competencies
+* **Visual Storytelling:** GTQ 기반의 디자인 스킬로 브랜드 아이덴티티에 최적화된 콘텐츠(이미지/영상)를 생산합니다.
+* **Technical Marketing:** SEO 최적화, 랜딩 페이지 분석, 광고 스크립트 삽입 등 기술적 이해도가 필요한 마케팅 영역에 강점이 있습니다.
+* **Logical Planning:** 유저 흐름(User Flow)을 분석하여 이탈률을 줄이고 전환율(CVR)을 높이는 전략적인 화면과 문구를 설계합니다.
 
 ---
 
-## Tech Stack
+## 🛠️ Expertise & Tools
 
-### Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vue,ts,nodejs&perline=12" />
-</p>
+### 🎨 Creative Direction
+- **Design:** Adobe Photoshop, Illustrator, InDesign, Figma (UI/UX & Branding)
+- **Video:** Adobe Premiere Pro (유튜브/숏폼/광고 소재 제작)
 
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,idea&perline=12" />
-</p>
-
-### Design Tools
-<p>
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" />
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white" />
-  <img alt="Adobe InDesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat&logo=adobeindesign&logoColor=white" />
-  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobexd&logoColor=white" />
-  <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white" />
-</p>
+### 💻 Technical Skills
+- **Frontend:** HTML5, CSS3, JavaScript, React, Vue (직접 수정 가능한 랜딩 페이지 제작 능력)
+- **Data:** MySQL, MariaDB (데이터 구조 이해를 통한 타겟팅 전략 수립)
 
 ---
 
-## Featured Projects
+## 📈 Social & Records
+- **Blog:** [콘텐츠 마케팅 & 기술 블로그](https://content467.tistory.com/)
+- **Portfolio:** [웹 포트폴리오 바로가기](https://zonezipex.github.io/)
+- **Activity:** IT 서비스 기획 및 브랜딩 프로젝트 다수 진행 (대팡, 면접몬, AiR 등)
 
-### 1) IT자산장부 — 사내 IT 자산 대여·반납·검수·통합관리 DB 설계
-> 역할: DB 모델링 (ERD/DDL/Trigger/Procedure)  
-> Tech: MariaDB · SQL · ERD · DDL · Trigger · Procedure  
-> 기간: 2026.01.05 ~ 2026.01.21  
-> Link: https://github.com/ZonezIpex/IT-Asset-Register
-<p>
-  <img src="https://raw.githubusercontent.com/ZonezIpex/ZonezIpex.github.io/main/IT%EC%9E%90%EC%82%B0%EC%9E%A5%EB%B6%80.png" width="520" alt="it-asset-register" />
+---
+
+## 📫 Contact
+- **Email:** aksvmfkd3@naver.com
+- **LinkedIn:** [준비 중]
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ZonezIpex&style=flat&color=2563eb" alt="Visitors" />
 </p>
-
----
-
-### 2) 대팡 — 필기·요약·퀴즈 통합 AI 학습 플랫폼
-> 역할: 팀장 (프론트엔드 제작 & 디자인 총괄 / 소개영상 제작·편집)  
-> Tech: React · TypeScript · Node.js · MySQL  
-> Link: https://github.com/ZonezIpex/DaepangIntroduction.git
-<p>
-  <img src="https://raw.githubusercontent.com/ZonezIpex/ZonezIpex.github.io/main/%EB%8C%80%ED%8C%A1%20%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png" width="520" alt="daepang" />
-</p>
-
----
-
-### 3) 면접몬 — AI 모의면접 & 피드백 플랫폼
-> 역할: 팀장 (프론트엔드 총괄 / GitHub 관리 / 디자인 총괄)  
-> Tech: React · TypeScript · Node.js · MySQL  
-> Link: https://github.com/ZonezIpex/MenjupmonIntroduction.git
-<p>
-  <img src="https://raw.githubusercontent.com/ZonezIpex/ZonezIpex.github.io/main/%EB%A9%B4%EC%A0%91%EB%AA%AC%20%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png" width="520" alt="menjupmon" />
-</p>
-
----
-
-### 4) AiR — 회사 맞춤 AI 이력서 플랫폼
-> 역할: 부팀장 (프론트엔드 제작 / 총관리 / GitHub 관리 / 피드백)  
-> Tech: React · JavaScript · Node.js · MySQL  
-> Link: https://github.com/ZonezIpex/Team_project.git
-<p>
-  <img src="https://raw.githubusercontent.com/ZonezIpex/ZonezIpex.github.io/main/%EC%9D%B4%EB%A0%A5%EC%84%9C%20%ED%94%8C%EB%9E%AB%ED%8F%BC%20%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png" width="520" alt="air" />
-</p>
-
----
-
-### 5) 코드어드벤쳐 — 게임형 코딩 학습 플랫폼
-> 역할: 프론트엔드 개발 및 디자인 제작  
-> Link: https://github.com/ZonezIpex/Codeadventuredealim.git
-<p>
-  <img src="https://raw.githubusercontent.com/ZonezIpex/ZonezIpex.github.io/main/%EC%BD%94%EB%93%9C%EC%96%B4%EB%93%9C%EB%B2%A4%EC%B3%90%20%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png" width="520" alt="codeadventure" />
-</p>
-
----
-
-## Documents
-- 이력서: https://github.com/ZonezIpex/ZonezIpex.github.io/blob/main/%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf
-- 자기소개서: https://github.com/ZonezIpex/ZonezIpex.github.io/blob/main/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C.pdf
-- 포트폴리오 PDF: https://github.com/ZonezIpex/ZonezIpex.github.io/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf
-
----
-
-## Contact
-- Email: aksvmfkd3@naver.com
-- Portfolio: https://zonezipex.github.io/
-- Blog: https://content467.tistory.com/
